@@ -1,0 +1,8 @@
+user del raspberry :admin
+contraseña:lego123
+
+red:Lego
+contraseña:12345678
+
+para ejecutar el código:python3 cliente_gpio.py
+para apagar la placa de forma segura:sudo poweroff
